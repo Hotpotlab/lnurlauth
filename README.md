@@ -1,6 +1,8 @@
 # YouFlix
 LNAuth platform that acts as a subscription provider using the Bitcoin Lightning Network making it easier for companies to accept payments & subscriptions.
 
+If you would like to learn more about our project and check out our submission, please visit [our DevPost Project Submission.](https://devpost.com/software/youflix)
+
 ## Inspiration
 
 We were inspired by the need for companies to accept payments quickly and easily with Bitcoin. We wanted to make the Lightning Network more accessible to companies who may not have the technical expertise to use it. 
