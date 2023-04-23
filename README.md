@@ -1,4 +1,4 @@
-# YouFlix
+# LooPay
 LNAuth platform that acts as a subscription provider using the Bitcoin Lightning Network making it easier for companies to accept payments & subscriptions.
 
 If you would like to learn more about our project and check out our submission, please visit [our DevPost Project Submission.](https://devpost.com/software/youflix)
