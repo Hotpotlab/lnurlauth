@@ -42,7 +42,7 @@ function App() {
       <div>
         <nav>
           <h2 className="navTitle" onClick={navigateHome}>
-            HotpotLab
+            Youflix
           </h2>
           {user == null ? (
             <div></div>
@@ -64,6 +64,20 @@ function App() {
             </div>
           )}
         </nav>
+        <div className="" style={{ textAlign: `center` }}>
+          {user == null ? (
+            <p className="">
+              Please Login to view the fantastic world of YouFlix
+            </p>
+          ) : (
+            <>
+              <p className="">
+                Hey Bro, You did it, thanks for subscribing too
+              </p>
+              <img src="https://api.cloudnouns.com/v1/pfp" alt="" />
+            </>
+          )}
+        </div>
       </div>
     </body>
   );

@@ -13,6 +13,9 @@ nav {
   color: white;
   text-decoration: none;
 }
+p {
+  color: white;
+}
 
 .navTitle {
   margin-left: 2.5vw;
@@ -36,16 +39,16 @@ nav {
 }
 
 .cpIcon {
-height: 4vh;
-width: auto;
-cursor: pointer;
+  height: 4vh;
+  width: auto;
+  cursor: pointer;
 }
 
 .user {
   margin-right: 0.5vw;
-    text-overflow: ellipsis;
-    overflow: hidden; 
-    width: 200px; 
-    height: 1.2em; 
-    white-space: nowrap;
-  }
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 200px;
+  height: 1.2em;
+  white-space: nowrap;
+}

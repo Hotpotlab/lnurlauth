@@ -10,11 +10,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@grpc/grpc-js": "^1.8.14",
+    "@grpc/proto-loader": "^0.7.6",
     "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.1",
     "express-session": "^1.17.3",
+    "knex": "^2.4.2",
     "passport": "^0.6.0",
     "passport-lnurl-auth": "^1.5.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "pg": "^8.10.0",
+    "request": "^2.88.2",
+    "uuidv4": "^6.2.13"
   }
 }
